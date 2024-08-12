@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e56b135-9b42-4f1c-87fd-2c76996535f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lonely/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lonely/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lonely/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lonely/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lonely" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2j68vRMsnrUlOwaU8lwHUV1yIQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/WEB DEV WEBSTORM/Portfolio Demo Project/assets/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEB DEV WEBSTORM\Portfolio Demo Project\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB DEV WEBSTORM\Portfolio Demo Project\Lonely\assets\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e56b135-9b42-4f1c-87fd-2c76996535f1" name="Changes" comment="" />
+      <created>1720696395885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720696395885</updated>
+      <workItem from="1720696396891" duration="3726000" />
+      <workItem from="1720784643826" duration="7789000" />
+      <workItem from="1720867856721" duration="4381000" />
+      <workItem from="1721981450202" duration="834000" />
+      <workItem from="1722843222199" duration="725000" />
+      <workItem from="1723213350127" duration="3363000" />
+      <workItem from="1723234861201" duration="1380000" />
+      <workItem from="1723392646605" duration="1790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
